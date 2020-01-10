@@ -6,5 +6,5 @@ group :test, :development do
   gem 'guard'
   gem 'guard-rspec'
   gem 'guard-bundler'
-  gem 'coveralls'
+  gem 'coveralls', require: false
 end
