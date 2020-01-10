@@ -9,14 +9,14 @@ Gem::Specification.new do |spec|
   spec.email         = ["alu0100844665@ull.edu.es"]
 
   spec.summary       = "A gem to calculate the environmental impact"
-  spec.homepage      = "https://github.com/ULL-ESIT-LPP-1920/tdd-alu0100844665"
+  spec.homepage      = "https://github.com/alu0100844665/pruebas_ruby.git"
   spec.license       = "MIT"
 
   spec.metadata["allowed_push_host"] = "http://mygemserver.com"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://github.com/ULL-ESIT-LPP-1920/tdd-alu0100844665"
-  spec.metadata["changelog_uri"] = "https://github.com/ULL-ESIT-LPP-1920/tdd-alu0100844665/blob/master/README.md"
+  spec.metadata["source_code_uri"] = "https://github.com/alu0100844665/pruebas_ruby.git"
+  spec.metadata["changelog_uri"] = "https://github.com/alu0100844665/pruebas_ruby.git"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
